@@ -1,2 +1,1 @@
 # Strict
-lsglsgjlkj
